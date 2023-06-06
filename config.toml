@@ -2,6 +2,7 @@ title = "Cyatom01 个人博客"
 baseURL = "https://blog.proxyme.cn"
 languageCode = "zh-cn"
 theme = ["ananke"]
+contentDir = "content"
 resourceDir = "./resources"
 staticDir=['static']
 DefaultContentLanguage = "zh"
