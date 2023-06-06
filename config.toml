@@ -23,7 +23,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  text_color = ""
+  text_color = "black"
   author = "Cyatom01"
   favicon = "favicon.ico"
   site_logo = ""
