@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Cyatom01 个人博客</title>
+    <title>Posts on Cyatom01的博客</title>
     <link>https://blog.proxyme.cn/post/</link>
-    <description>Recent content in Posts on Cyatom01 个人博客</description>
+    <description>Recent content in Posts on Cyatom01的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
+    <managingEditor>cyatom01@outlook.com (Cyatom01)</managingEditor>
+    <webMaster>cyatom01@outlook.com (Cyatom01)</webMaster>
     <lastBuildDate>Tue, 06 Jun 2023 20:12:34 +0800</lastBuildDate><atom:link href="https://blog.proxyme.cn/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
       <link>https://blog.proxyme.cn/post/hello-world/</link>
       <pubDate>Tue, 06 Jun 2023 20:12:34 +0800</pubDate>
-      
+      <author>cyatom01@outlook.com (Cyatom01)</author>
       <guid>https://blog.proxyme.cn/post/hello-world/</guid>
       <description>你好，测试</description>
     </item>

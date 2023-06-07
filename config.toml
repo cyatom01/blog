@@ -12,9 +12,13 @@ Paginate = 3 # this is set low for demonstrating with dummy content. Set to a hi
 googleAnalytics = ""
 enableRobotsTXT = true
 
+[author]
+  name = "Cyatom01"
+  email = "cyatom01@outlook.com"
+
 [languages]
   [languages.zh]
-    title = "Cyatom01 个人博客"
+    title = "Cyatom01的博客"
     weight = 1
     contentDir = "content/zh"
 
@@ -34,6 +38,7 @@ enableRobotsTXT = true
   recent_posts_number = 3
   commentoEnable = true
   disqusShortname="Cyatom01"
+  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
 
 
 [[params.ananke_socials]]
