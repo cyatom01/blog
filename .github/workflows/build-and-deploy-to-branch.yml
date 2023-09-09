@@ -19,16 +19,17 @@ jobs:
       with:
             submodules: true
             fetch-depth: 0
-    - name:Setup Hugo
+
+    - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
       with:
         hugo-version: "latest"
         
     - name: Build Web
-        run: |
-            hugo
-            mkdir BUILD
-            cp -r public BUILD/public
+      run: |
+          hugo
+          mkdir BUILD
+          cp -r public BUILD/public
 
     # Synchronize & push BUILD directory to deployment branch
     - name: Configure Git informations
