@@ -63,5 +63,5 @@ jobs:
           cd BUILD
           git add -A
           git commit -m "Automated build $GIT_COMMIT"
-          git push origin $DEPLOY_BRANCH
+          git push --force origin $DEPLOY_BRANCH
           cd ..
